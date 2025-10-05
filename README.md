@@ -1,5 +1,5 @@
 # RFID-Door-Lock
-![RFID Smart Door Lock](Media/banner.png)
+![RFID Smart Door Lock](Media/Banner.png)
 
 An IoT-based RFID Smart Door Lock System using Arduino, RFID reader, Servo motor, and Buzzer.
 # 🔐 RFID-Based Smart Door Lock System
