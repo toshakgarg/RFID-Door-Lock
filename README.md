@@ -1,4 +1,6 @@
 # RFID-Door-Lock
+![RFID Smart Door Lock](Media/banner.png)
+
 An IoT-based RFID Smart Door Lock System using Arduino, RFID reader, Servo motor, and Buzzer.
 # 🔐 RFID-Based Smart Door Lock System
 
@@ -30,14 +32,13 @@ This project is an excellent example of building **practical access control solu
 4. If **unauthorized** → Servo stays locked + buzzer sounds for 3s as a warning.  
 
 ---
-<!--
+
 ## 📂 Repository Contents
-- `RFID_Door_Lock.ino` → Main Arduino source code  
-- `circuit_diagram.png` → Circuit connections (if available)  
-- `demo_video_link.txt` → Links to working project demo  
+- `RFID_Door_Lock.ino` → [Main Arduino source code](RFID_Door_Lock.ino)  
+- `circuit_diagram.png` → [Circuit Diagram](Media/Circuit%20Diagram.png) 
+- `RFID-Door-Lock.mp4` → [Project video](Media/RFID-Door-Lock.mp4)
 
 ---
--->
 
 ## 🚀 How to Run
 1. Open the `.ino` file in Arduino IDE  
@@ -50,13 +51,6 @@ This project is an excellent example of building **practical access control solu
 5. Test the system with RFID cards  
 
 ---
-<!--
-## 🎥 Demonstration
-Here are the project demo videos:  
-- [Project in development phase](#)  
-- [Final working demo](#)  
----
--->
 
 ## 📖 Learning Outcomes
 - Embedded C & Arduino Programming  
@@ -74,7 +68,7 @@ Feel free to **fork this repo** and submit a pull request.
 
 ## 📬 Contact
 Created by **Toshak**  
-- LinkedIn: www.linkedin.com/in/toshak-garg  
+- LinkedIn: https://www.linkedin.com/in/toshak-garg  
 - GitHub: https://github.com/toshakgarg  
 
 ---
